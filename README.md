@@ -250,6 +250,9 @@ If you think the release of this dataset might infringe your copyright, please i
 
 
 ## Paper and Citation
+
+[Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering](https://aclanthology.org/2023.emnlp-industry.29) (Yang et al., EMNLP 2023)
+
 ```
 @inproceedings{yang-etal-2023-empower,
     title = "Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering",
