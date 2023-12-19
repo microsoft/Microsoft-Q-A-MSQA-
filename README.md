@@ -5,6 +5,7 @@ Microsoft Q&A (MSQA) dataset is a question-answering dataset collected from the 
 
 ## News
 - **We arxiv our [paper](https://arxiv.org/abs/2305.11541).**
+- **[Paper](https://aclanthology.org/2023.emnlp-industry.29/) got accepted in EMNLP 2023 Industry Track**
 
 
 ## Introduction
@@ -91,16 +92,32 @@ If you think the release of this dataset might infringe your copyright, please i
 
 
 ## Paper and Citation
-https://arxiv.org/abs/2305.11541
 ```
-@misc{wang2023empower,
-      title={Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering}, 
-      author={Zezhong Wang and Fangkai Yang and Pu Zhao and Lu Wang and Jue Zhang and Mohit Garg and Qingwei Lin and Dongmei Zhang},
-      year={2023},
-      eprint={2305.11541},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{yang-etal-2023-empower,
+    title = "Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering",
+    author = "Yang, Fangkai  and
+      Zhao, Pu  and
+      Wang, Zezhong  and
+      Wang, Lu  and
+      Qiao, Bo  and
+      Zhang, Jue  and
+      Garg, Mohit  and
+      Lin, Qingwei  and
+      Rajmohan, Saravan  and
+      Zhang, Dongmei",
+    editor = "Wang, Mingxuan  and
+      Zitouni, Imed",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-industry.29",
+    doi = "10.18653/v1/2023.emnlp-industry.29",
+    pages = "294--312",
+    abstract = "Large Language Model (LLM) has gained popularity and achieved remarkable results in open-domain tasks, but its performance in real industrial domain-specific scenarios is average due to its lack of specific domain knowledge. This issue has attracted widespread attention, but there are few relevant benchmarks available. In this paper, we provide a benchmark Question Answering (QA) dataset named MSQA, centered around Microsoft products and IT technical problems encountered by customers. This dataset contains industry cloud-specific QA knowledge, an area not extensively covered in general LLMs, making it well-suited for evaluating methods aiming to enhance LLMs{'} domain-specific capabilities. In addition, we propose a new model interaction paradigm that can empower LLM to achieve better performance on domain-specific tasks where it is not proficient. Extensive experiments demonstrate that the approach following our method outperforms the commonly used LLM with retrieval methods. We make our source code and sample data available at: https://aka.ms/Microsoft{\_}QA.",
 }
+
 ```
 
 <!-- ## References
