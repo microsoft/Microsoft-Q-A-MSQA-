@@ -396,3 +396,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+pretrain_azure_doc/repos/
+pretrain_azure_doc/azure_doc/data/
+human_annotation/data/
+evaluation/data/
+evaluation/img/
+evaluation/save/
+evaluation/tmp_*
+ui/human_eval_data/
+msqa_process/data/
+# generation/llm_components.py
+.vscode
