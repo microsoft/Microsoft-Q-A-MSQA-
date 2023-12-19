@@ -15,7 +15,7 @@ Existing works leverage retrieval-based methods or external modules to extract d
 
 Here is the framework of our model interaction paradigm
 
- ![model-interaction-framework](https://github.com/keanudicap/MSQA/blob/main/pic/framework.png)
+ ![model-interaction-framework](https://github.com/microsoft/Microsoft-Q-A-MSQA-/blob/main/pic/framework.PNG)
 
 We release MSQA data and believe that this benchmarking dataset will assist the research community in evaluating their model interaction strategies in domain-specific scenarios.
 
@@ -85,7 +85,7 @@ Below is an actual example from the MSQA dataset:
 
 To facilitate manual inspection of the effectiveness of data filtering, we developed a script, `viz.py`, that visualizes the differences before and after data filtering. Below is an example of the visualization,
 
-![visualization-demo](https://github.com/keanudicap/MSQA/blob/main/pic/demo_pic.png)
+![visualization-demo](https://github.com/microsoft/Microsoft-Q-A-MSQA-/blob/main/pic/demo_pic.png)
 
 The source files for this demo can be found at [viz_demo.html](https://github.com/keanudicap/MSQA/blob/main/viz/viz_demo.html).
 
