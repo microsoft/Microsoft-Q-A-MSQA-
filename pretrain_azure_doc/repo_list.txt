@@ -1,0 +1,4 @@
+https://github.com/MicrosoftDocs/SupportArticles-docs.git
+https://github.com/MicrosoftDocs/azure-docs.git
+https://github.com/MicrosoftDocs/azure-stack-docs.git
+https://github.com/MicrosoftDocs/quantum-docs.git
