@@ -101,6 +101,7 @@ The source files for this demo can be found at [viz_demo.html](https://github.co
     conda activate msqa
     git clone https://github.com/microsoft/Microsoft-Q-A-MSQA-.git
     conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit=11.3 -c pytorch
+    cd Microsoft-Q-A-MSQA-
     pip install -r requirements.txt
     ```
 
