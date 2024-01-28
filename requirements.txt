@@ -4,7 +4,7 @@ langdetect
 numpy
 rouge_score
 fire
-openai
+openai==0.28.1
 sentencepiece
 wandb
 gradio==3.9
@@ -12,7 +12,7 @@ deepspeed==0.9.2
 accelerate
 tensorboardX
 transformers==4.29.2
-datasets==2.10.0
+datasets==2.14.6
 chardet
 protobuf==3.20
 langdetect
