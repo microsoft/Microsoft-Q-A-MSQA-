@@ -14,7 +14,7 @@ tensorboardX
 transformers==4.29.2
 datasets==2.14.6
 chardet
-protobuf==3.20
+protobuf==3.20.2
 langdetect
 bert_score
 rouge_score
