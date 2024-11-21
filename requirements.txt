@@ -7,7 +7,7 @@ fire
 openai==0.28.1
 sentencepiece
 wandb
-gradio==3.9
+gradio==4.19.2
 deepspeed==0.9.2 
 accelerate
 tensorboardX
